@@ -79,7 +79,7 @@ body {
     transform: translateY(20px);
 }
 
-.navigation ul li:hover a .text {
+.navigation ul li.active a .text {
     opacity: 1;
     transform: translateY(10px);
 }
