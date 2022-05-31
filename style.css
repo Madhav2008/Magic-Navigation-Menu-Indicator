@@ -76,4 +76,4 @@ body {
     letter-spacing: 0.05em;
     transition: 0.5s;
     opacity: 0;
-}.navigation ul li:hover a .text
+}.navigation ul li:hover a .text{}
