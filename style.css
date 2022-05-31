@@ -122,6 +122,7 @@ body {
 .navigation ul li:nth-child(1).active~.indicator {
     transform: translateX(calc(70px * 0));
 }
+
 .navigation ul li:nth-child(1).active~.indicator {
     transform: translateX(calc(70px * 0));
 }
