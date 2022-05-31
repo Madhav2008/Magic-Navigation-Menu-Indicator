@@ -49,5 +49,6 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    width: 100%;text-align: center;
+    width: 100%;
+    text-align: center;
 }
