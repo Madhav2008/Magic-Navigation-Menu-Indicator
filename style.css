@@ -55,5 +55,5 @@ body {
 }
 
 .navigation ul li a .icon {
-    position: relative;
+    position: relative;display: block;
 }
