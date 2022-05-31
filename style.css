@@ -84,4 +84,4 @@ body {
     transform: translateY(10px);
 }
 
-.indicator {}
+.indicator {position: absolute;}
