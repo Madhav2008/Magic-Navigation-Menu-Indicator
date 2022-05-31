@@ -54,4 +54,6 @@ body {
     font-weight: 500;
 }
 
-.navigation ul li a .icon {position: relative;}
+.navigation ul li a .icon {
+    position: relative;
+}
