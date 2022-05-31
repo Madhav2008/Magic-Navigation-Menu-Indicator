@@ -36,5 +36,5 @@ body {
 }
 
 .navigation ul li {
-    position: relative;
+    position: relative;list-style: none;
 }
