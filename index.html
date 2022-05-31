@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="logo.png" />
+    <title>Simple Popup Box</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="content">
+            <h2>Heading...</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eaque aut eius, fugit et aliquid. Optio
+                quos dolore, aliquid adipisci ducimus, eos quidem nulla temporibus blanditiis sequi unde provident
+                pariatur?</p>
+        </div>
+        <div class="toogleBtn"></div>
+    </div>
+
+    <script src="script.js"></script>
+
+    <script>
+        let toogleBtn = document.querySelector('.toogleBtn');
+        let container = document.querySelector('.container');
+
+        toogleBtn.onClick = function () {
+            container.classList.toogle('active');
+        }
+    </script>
+</body>
+
+</html>
