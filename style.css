@@ -120,5 +120,5 @@ body {
 }
 
 .navigation ul li:nth-child(1).active~.indicator {
-    transform: translateX(calc());
+    transform: translateX(calc(70px * 0));
 }
