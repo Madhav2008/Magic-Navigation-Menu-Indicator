@@ -68,4 +68,4 @@ body {
     transform: translateY(-35px);
 }
 
-.navigation ul li a .text {}
+.navigation ul li a .text {position: absolute;}
