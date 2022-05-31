@@ -116,7 +116,7 @@ body {
     height: 20px;
     background: transparent;
     border-top-left-radius: 20px;
-    box-shadow: 0px -10px 0 0 var(--clr);
+    box-shadow: -1px -10px 0 0 var(--clr);
 }
 
 .navigation ul li:nth-child(1).active~.indicator {
