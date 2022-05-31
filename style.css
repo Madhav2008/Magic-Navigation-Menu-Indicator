@@ -62,4 +62,4 @@ body {
     text-align: center;
     transition: 0.5s;
     color: var(--clr);
-}.navigation ul li:hover a .icon
+}.navigation ul li:hover a .icon{}
