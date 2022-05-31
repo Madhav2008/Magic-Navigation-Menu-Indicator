@@ -98,5 +98,5 @@ body {
 .indicator::before {
     content: '';
     position: absolute;
-    top: 0;
+    top: 0;width: 20px;
 }
