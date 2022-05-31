@@ -85,5 +85,5 @@ body {
 }
 
 .indicator {
-    position: absolute;
+    position: absolute;width: 70px;
 }
