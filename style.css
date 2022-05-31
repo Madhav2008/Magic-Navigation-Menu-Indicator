@@ -65,7 +65,7 @@ body {
 }
 
 .navigation ul li.active a .icon {
-    transform: translateY(-50px);
+    transform: translateY(-33px);
 }
 
 .navigation ul li a .text {
