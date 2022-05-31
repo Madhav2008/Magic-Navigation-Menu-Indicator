@@ -38,5 +38,5 @@ body {
 .navigation ul li {
     position: relative;
     list-style: none;
-    width: 70px;
+    width: 70px;height: 70px;
 }
