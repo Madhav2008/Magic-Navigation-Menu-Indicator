@@ -78,4 +78,4 @@ body {
     opacity: 0;
 }
 
-.navigation ul li:hover a .text {}
+.navigation ul li:hover a .text {opacity: 1;}
