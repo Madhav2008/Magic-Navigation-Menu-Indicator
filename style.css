@@ -96,5 +96,5 @@ body {
 }
 
 .indicator::before {
-    content: '';
+    content: '';position: absolute;
 }
