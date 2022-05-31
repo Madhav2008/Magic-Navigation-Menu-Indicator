@@ -103,7 +103,7 @@ body {
     width: 20px;
     height: 20px;
     background: transparent;
-    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
     box-shadow: 0px -10px 0 0 var(--clr);
 }
 .indicator::after {
