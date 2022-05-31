@@ -24,4 +24,5 @@ body {
     width: 400px;
     height: 70px;
     background: #fff;
+    display: flex;
 }
