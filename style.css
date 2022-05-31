@@ -126,12 +126,15 @@ body {
 .navigation ul li:nth-child(2).active~.indicator {
     transform: translateX(calc(70px * 1));
 }
+
 .navigation ul li:nth-child(2).active~.indicator {
     transform: translateX(calc(70px * 1));
 }
+
 .navigation ul li:nth-child(2).active~.indicator {
     transform: translateX(calc(70px * 1));
 }
+
 .navigation ul li:nth-child(2).active~.indicator {
     transform: translateX(calc(70px * 1));
 }
