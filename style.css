@@ -82,4 +82,4 @@ body {
 .navigation ul li.active a .text {
     opacity: 1;
     transform: translateY(10px);
-}
+}.indicator
