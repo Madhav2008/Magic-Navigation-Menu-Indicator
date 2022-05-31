@@ -19,4 +19,6 @@ body {
     background: var(--clr);
 }
 
-.navigation {width: 400px;}
+.navigation {
+    width: 400px;
+}
