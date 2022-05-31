@@ -66,4 +66,6 @@ body {
 
 .navigation ul li:hover a .icon {
     transform: translateY(-35px);
-}.navigation ul li a .text{}
+}
+
+.navigation ul li a .text {}
