@@ -81,4 +81,5 @@ body {
 
 .navigation ul li:hover a .text {
     opacity: 1;
+    transform: translateY(10px);
 }
