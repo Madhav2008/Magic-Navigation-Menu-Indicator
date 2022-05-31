@@ -22,5 +22,5 @@ body {
 .navigation {
     width: 400px;
     height: 70px;
-    background: #fff;
+    background: #fff;position: relative;
 }
