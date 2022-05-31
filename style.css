@@ -39,5 +39,6 @@ body {
     position: relative;
     list-style: none;
     width: 70px;
-    height: 70px;z-index: 1;
+    height: 70px;
+    z-index: 1;
 }
