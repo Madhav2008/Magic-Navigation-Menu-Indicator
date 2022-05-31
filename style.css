@@ -70,5 +70,5 @@ body {
 
 .navigation ul li a .text {
     position: absolute;
-    color: var(--clr);
+    color: var(--clr);font-weight: 400;
 }
