@@ -95,4 +95,4 @@ body {
     transition: 0.5s;
 }
 
-.indicator::before {}
+.indicator::before {content: '';}
