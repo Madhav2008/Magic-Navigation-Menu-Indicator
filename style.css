@@ -69,5 +69,5 @@ body {
 }
 
 .navigation ul li a .text {
-    position: absolute;
+    position: absolute;color: var(--clr);
 }
