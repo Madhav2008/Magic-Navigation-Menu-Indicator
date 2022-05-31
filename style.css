@@ -35,4 +35,6 @@ body {
     width: 350px;
 }
 
-.navigation ul li {position: relative;}
+.navigation ul li {
+    position: relative;
+}
