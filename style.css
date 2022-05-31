@@ -64,7 +64,7 @@ body {
     color: var(--clr);
 }
 
-.navigation ul li:hover a .icon {
+.navigation ul li.active a .icon {
     transform: translateY(-35px);
 }
 
