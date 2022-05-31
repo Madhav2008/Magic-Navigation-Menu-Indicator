@@ -33,4 +33,6 @@ body {
 .navigation ul {
     display: flex;
     width: 350px;
-}.navigation ul li{}
+}
+
+.navigation ul li {}
