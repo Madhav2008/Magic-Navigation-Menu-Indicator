@@ -30,4 +30,4 @@ body {
     border-radius: 10px;
 }
 
-.navigation ul {}
+.navigation ul {display: flex;}
