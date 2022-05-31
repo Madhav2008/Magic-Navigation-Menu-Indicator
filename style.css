@@ -44,5 +44,5 @@ body {
 }
 
 .navigation ul li a {
-    position: relative;
+    position: relative;display: flex;
 }
