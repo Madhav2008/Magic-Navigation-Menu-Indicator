@@ -10,4 +10,4 @@
 :root {
     --clr: #222327;
 }
-body{}
+body{display: flex;}
