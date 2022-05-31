@@ -56,5 +56,6 @@ body {
 
 .navigation ul li a .icon {
     position: relative;
-    display: block;line-height: 75px;
+    display: block;
+    line-height: 75px;
 }
