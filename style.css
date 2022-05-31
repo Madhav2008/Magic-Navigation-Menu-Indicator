@@ -119,4 +119,4 @@ body {
     box-shadow: 0px -10px 0 0 var(--clr);
 }
 
-.navigation ul li:nth-child(1).active ~ .indicator{}
+.navigation ul li:nth-child(1).active~.indicator {}
