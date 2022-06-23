@@ -5,7 +5,6 @@
 # Screenshots
 ![image](https://user-images.githubusercontent.com/72864817/175289297-6153d29c-d071-4198-ad6a-5ff51c0d575f.png)
 
-
 ![image](https://user-images.githubusercontent.com/72864817/175288808-65bba589-b883-4258-a950-236d85fd70bb.png)
 
 ![image](https://user-images.githubusercontent.com/72864817/175289010-d7d2dc7f-4a53-4d59-b40d-64ef68f42b5c.png)
